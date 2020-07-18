@@ -4,3 +4,6 @@
 实现了基本的潮汐 APP 界面和主要功能,其他功能有待完善
 欢迎大家交流,学习
 email 地址:ykkaixing@gmail.com
+
+simulate the basic function in chaoxi APP 
+Using PureLayout to layout
